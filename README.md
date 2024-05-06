@@ -51,6 +51,6 @@ while True:
 ![image](https://github.com/Mythili7339267708/2a_Stop_and_Wait_Protocol/assets/144260246/9d06f80b-a893-4f2e-9ab7-160e1020bb82)
 
 
-## OUTPUT
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
